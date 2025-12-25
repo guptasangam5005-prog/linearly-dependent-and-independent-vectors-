@@ -1,2 +1,2 @@
-linearly dependent and independent vectors
+linearly dependent and independent vectors 
 
